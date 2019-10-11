@@ -1,1 +1,1 @@
-# Paint_for_drawing_unicorns
+# Multithreading Paint
